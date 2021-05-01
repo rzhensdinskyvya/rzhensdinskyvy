@@ -1,10 +1,11 @@
 {
-  "mode": "false",
+  "mode": "true",
   "links": {
     "1": "https://google.com"
   },
   "countries": [
     "PT"
   ],
+  "coun": "PT_",
   "token": "bdf9ba0fd863c962d85b408da624fd3a"
 }
